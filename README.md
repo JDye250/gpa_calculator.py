@@ -43,5 +43,4 @@ GPA = total quality points / total credit hours
 
 25 / 7 = 3.57 GPA
 
-e  
 Information Technology student at North Carolina A&T State University
